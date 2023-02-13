@@ -53,6 +53,15 @@ h6 {
   font-size: $type-size-6;
 }
 
+// publication
+pub {
+ color: gray;
+}
+
+highlighted {
+  color: #dc322f;
+ }
+
 small, .small {
   font-size: $type-size-6;
 }

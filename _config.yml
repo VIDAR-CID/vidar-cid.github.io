@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiacheng Li @ USTC"
+title                    : "VIDAR-CID @ USTC"
 title_separator          : "-"
-name                     : &name "Jiacheng Li"
-description              : &description "VIDAR Group, USTC"
+name                     : &name "VIDAR-CID"
+description              : &description "USTC"
 url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  "" # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -73,30 +73,30 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false # (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Jiacheng Li"
+  name             : "VIDAR-CID"
   avatar           : "portrait.jpg"
-  bio              : "VIDAR, USTC"
+  bio              : "USTC"
   location         : "Hefei, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "jclee [at] mail [dot] ustc [dot] edu [dot] cn"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : https://ddlee.cc
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ddlee-cn"
+  github           :
   google_plus      :
   keybase          :
   instagram        :

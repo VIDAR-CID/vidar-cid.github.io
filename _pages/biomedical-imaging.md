@@ -1,21 +1,9 @@
 ---
-permalink: /
-title: "VIDAR-CID"
-excerpt: "About"
+title: "Research Topic: Biomedical Imaging"
+excerpt: "Biomedical Imaging"
 author_profile: True
-redirect_from: 
-  - /about/
-  - /about.html
+permalink: /biomedical-imaging.html
 ---
-
-<!-- ## About VIDAR-CID -->
-
-VIDAR-CID (Visual Information Discovery And Recovery, Computational Imaging Division) is a research group at USTC, supervised by [Prof. Zhiwei Xiong](http://staff.ustc.edu.cn/~zwxiong/). We aim at world-class research in computer vision and computational photography. 
-
-## Research Topics
-
-
-<!-- ![SemIA]({{ site.baseurl }}/images/SemIA/teaser.png) -->
 
 
 ### MuLUT: Cooperating Multiple Look-Up Tables for Efficient Super-Resolution

@@ -1,22 +1,13 @@
 ---
-permalink: /
-title: "VIDAR-CID"
-excerpt: "About"
+title: "Research Topic: Super-Resolution"
+excerpt: "Super-Resolution"
 author_profile: True
-redirect_from: 
-  - /about/
-  - /about.html
+permalink: /super-resolution.html
 ---
-
-<!-- ## About VIDAR-CID -->
-
-VIDAR-CID (Visual Information Discovery And Recovery, Computational Imaging Division) is a research group at USTC, supervised by [Prof. Zhiwei Xiong](http://staff.ustc.edu.cn/~zwxiong/). We aim at world-class research in computer vision and computational photography. 
-
-## Research Topics
 
 
 <!-- ![SemIA]({{ site.baseurl }}/images/SemIA/teaser.png) -->
-
+## Image
 
 ### MuLUT: Cooperating Multiple Look-Up Tables for Efficient Super-Resolution
 *Jiacheng Li\*, Chang Chen\*, Zhen Cheng, Zhiwei Xiong* <br>

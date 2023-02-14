@@ -1,21 +1,9 @@
 ---
-permalink: /
-title: "VIDAR-CID"
-excerpt: "About"
+title: "Research Topic: Depth Sensing"
+excerpt: "Depth Sensing"
 author_profile: True
-redirect_from: 
-  - /about/
-  - /about.html
+permalink: /depth-sensing.html
 ---
-
-<!-- ## About VIDAR-CID -->
-
-VIDAR-CID (Visual Information Discovery And Recovery, Computational Imaging Division) is a research group at USTC, supervised by [Prof. Zhiwei Xiong](http://staff.ustc.edu.cn/~zwxiong/). We aim at world-class research in computer vision and computational photography. 
-
-## Research Topics
-
-
-<!-- ![SemIA]({{ site.baseurl }}/images/SemIA/teaser.png) -->
 
 
 ### MuLUT: Cooperating Multiple Look-Up Tables for Efficient Super-Resolution

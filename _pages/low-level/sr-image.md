@@ -22,7 +22,11 @@ permalink: /low-level/sr-image.html
 <span><pub>European Conference on Computer Vision (ECCV), 2022</pub></span> <br>
 [Project](https://mulut.pages.dev) |
 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-19797-0_14) |
-[Code](https://github.com/ddlee-cn/MuLUT)
+[Code](https://github.com/ddlee-cn/MuLUT) | <a onclick='if (document.getElementById("mulut-abs").style.display=="none") document.getElementById("mulut-abs").style.display="block"; else document.getElementById("mulut-abs").style.display="none";'> Abstract </a>
+<div style="display: none;" class=abs id="mulut-abs"><br>
+The high-resolution screen of edge devices stimulates a strong demand for efficient image super-resolution (SR). An emerging research, SR-LUT, responds to this demand by marrying the look-up table (LUT) with learning-based SR methods. However, the size of a single LUT grows exponentially with the increase of its indexing capacity. Consequently, the receptive field of a single LUT is restricted, resulting in inferior performance. To address this issue, we extend SR-LUT by enabling the cooperation of Multiple LUTs, termed MuLUT. Firstly, we devise two novel complementary indexing patterns and construct multiple LUTs in parallel. Secondly, we propose a re-indexing mechanism to enable the hierarchical indexing between multiple LUTs. In these two ways, the total size of MuLUT is linear to its indexing capacity, yielding a practical method to obtain superior performance. We examine the advantage of MuLUT on five SR benchmarks. MuLUT achieves a significant improvement over SR-LUT, up to 1.1 dB PSNR, while preserving its efficiency. Moreover, we extend MuLUT to address demosaicing of Bayer-patterned images, surpassing SR-LUT on two benchmarks by a large margin.
+</div>
+
 
 **Camera Lens Super-Resolution** <br>
 *Chang Chen, Zhiwei Xiong, Xinmei Tian, Zheng-Jun Zha, Feng Wu* <br>

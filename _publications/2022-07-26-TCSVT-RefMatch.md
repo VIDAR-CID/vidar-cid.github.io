@@ -1,7 +1,7 @@
 ---
 title: "Reference-Guided Landmark Image Inpainting with Deep Feature Matching"
 collection: publications
-permalink: /publication/2022-07-26-TCSVT-RefMatch
+permalink: /publications/2022-07-26-TCSVT-RefMatch
 date: 2022-07-26
 venue: 'IEEE T-CSVT'
 paperurl: ''

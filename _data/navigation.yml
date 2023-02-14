@@ -6,13 +6,13 @@ main:
   #   url: /#publications
 
   - title: "Super-Resolution"
-    url: /super-resolution
+    url: /#super-resolution
     
-  - title: "Depth Sensing"
-    url: /depth-sensing
+  # - title: "Depth Sensing"
+  #   url: /#depth-sensing
 
-  - title: "Biomedical Imaging"
-    url: /biomedical-imaging
+  # - title: "Biomedical Imaging"
+  #   url: /#biomedical-imaging
   # - title: "Talks"
   #   url: /talks/    
 

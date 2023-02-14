@@ -10,44 +10,31 @@ redirect_from:
 
 <!-- ## About VIDAR-CID -->
 
-VIDAR-CID (Visual Information Discovery And Recovery, Computational Imaging Division) is a research group at USTC, supervised by [Prof. Zhiwei Xiong](http://staff.ustc.edu.cn/~zwxiong/). We aim at world-class research in computer vision and computational photography. 
+VIDAR-CID (Visual Information Discovery And Recovery, Computational Imaging Division) is a research group at USTC, supervised by *Prof. Zhiwei Xiong*. We aim at world-class research in computer vision and computational photography. 
+
+
 
 ## Research Topics
 
 
-<!-- ![SemIA]({{ site.baseurl }}/images/SemIA/teaser.png) -->
+<!-- ![Super Resolution]({{ site.baseurl }}/images/topic-sr.jpg)-->
+<a href="/super-resolution.html"><img src="/images/topic-sr.jpg"  width="300"></a> <br>
+$~~~~~~~~~~~~~~~$**[Super-Resolution](/super-resolution.html)**
 
 
-### MuLUT: Cooperating Multiple Look-Up Tables for Efficient Super-Resolution
-*Jiacheng Li\*, Chang Chen\*, Zhen Cheng, Zhiwei Xiong* <br>
-<span><pub>European Conference on Computer Vision (ECCV), 2022</pub></span> <br>
-[Project](https://mulut.pages.dev) |
-[PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780234.pdf) |
-[Code](https://github.com/ddlee-cn/MuLUT)
+---
 
 
-<!-- ![CTOut]({{ site.baseurl }}/images/CTOut/teaser.png) -->
-
-### Contextual Outpainting with Object-Level Contrastive Learning
-*Jiacheng Li, Chang Chen, Zhiwei Xiong* <br>
-<span><pub>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022</pub></span> <br> 
-[Project](https://ddlee-cn.github.io/cto-gan/) | 
-[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Contextual_Outpainting_With_Object-Level_Contrastive_Learning_CVPR_2022_paper.pdf) | 
-[Code](https://mailustceducn-my.sharepoint.com/:f:/g/personal/jclee_mail_ustc_edu_cn/Elzm9EwS83JDiBuaxJOiBvIB0VuHprzuHABp6rctX37kSg?e=ottSJn)
-
-<!-- , [Paper]({{ site.baseurl }}/files/SemIA-MM20.pdf) , [Slides]({{ site.baseurl }}/files/SemIA-MM20-slides.pdf) , [Video(ACM DL)](https://dl.acm.org/doi/10.1145/3394171.3413601) -->
-
-### Reference-Guided Landmark Image Inpainting with Deep Feature Matching 
-*Jiacheng Li, Zhiwei Xiong, Dong Liu* <br>
-<span><pub>IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 2022</pub></span> <br>
-[Project]({{ site.baseurl }}/publication/2022-07-26-TCSVT-RefMatch.html) |
-[PDF](https://ieeexplore.ieee.org/document/9840396)
+<!-- ![Depth Sensing]({{ site.baseurl }}/images/topic-depth.jpg) -->
+<a href="/depth-sensing.html"><img src="/images/topic-depth.jpg"  width="300"></a> <br>
+$~~~~~~~~~~~~~~~~~$**[Depth Sensing](/depth-sensing.html)**
 
 
-### Semantic Image Analogy with a Conditional Single-Image GAN 
-*Jiacheng Li, Zhiwei Xiong, Dong Liu, Xuejin Chen, Zhen-Jun Zha* <br>
-<span><pub>ACM International Conference on Multimedia (ACM MM), 2020</pub></span> <br>
-<span><highlighted>Oral</highlighted><span> |
-[Project]({{ site.baseurl }}/publication/2020-07-26-MM2020-SemIA.html) |
-[PDF]({{ site.baseurl }}/files/SemIA-MM20.pdf) |
-[Code](https://github.com/ddlee-cn/SemIA)
+---
+
+<!-- ![Biomedical Imaging]({{ site.baseurl }}/images/topic-biomedical.jpg) -->
+<a href="/biomedical-imaging.html"><img src="/images/topic-biomedical.jpg"  width="300"></a> <br>
+$~~~~~~~~~~~~~~$**[Biomedical Imaging](/biomedical-imaging.html)**
+
+
+---

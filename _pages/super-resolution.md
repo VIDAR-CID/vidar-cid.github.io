@@ -5,6 +5,13 @@ author_profile: True
 permalink: /super-resolution.html
 ---
 
+[Image](#image) |
+[Video](#video) |
+[Spectrum](#spectrum) |
+[Light Field](#light-field) |
+[Others](#others-dynamic-range--events--volume)
+
+(\*Equal contribution)
 
 <!-- ![SemIA]({{ site.baseurl }}/images/SemIA/teaser.png) -->
 ## Image
@@ -146,7 +153,7 @@ permalink: /super-resolution.html
 [PDF](https://ieeexplore.ieee.org/abstract/document/10025794/)
 
 **Towards Real-World HDRTV Reconstruction: A Data Synthesis-Based Approach** <br>
-*Zhen Cheng, Tao Wang, Yong Li, Fenglong Song, Chang Chen, Zhiwei Xiong* <br>
+*Zhen Cheng\*, Tao Wang\*, Yong Li, Fenglong Song, Chang Chen, Zhiwei Xiong* <br>
 <span><pub>European Conference on Computer Vision (ECCV), 2022</pub></span> <br>
 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-19800-7_12) |
 [Dataset](https://github.com/huawei-noah/benchmark/tree/main/RealHDRTV_dataset)

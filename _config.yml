@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "VIDAR-CID @ USTC"
 title_separator          : "-"
 name                     : &name "VIDAR-CID"
-description              : &description "USTC"
+description              : &description "Computational Imaging Research Group at USTC"
 url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  "" # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "VIDAR-CID"
   avatar           : "vidar.jpg"
-  bio              : "USTC"
+  bio              : "University of Science and Technology of China (USTC)"
   location         : "Hefei, China"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=Snl0HPEAAAAJ&hl=en"
   email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 

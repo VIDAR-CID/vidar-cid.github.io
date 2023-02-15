@@ -53,19 +53,6 @@ h6 {
   font-size: $type-size-6;
 }
 
-// publication
-pub {
- color: gray;
-}
-
-highlighted {
-  color: #dc322f;
- }
-
- // abstract
-div .abs {
-  margin-bottom: 3em;
- }
 
 small, .small {
   font-size: $type-size-6;
@@ -326,4 +313,40 @@ nav {
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, form button, input[type="submit"], .btn, .highlight, .archive__item-teaser {
   -webkit-transition: $global-transition;
   transition: $global-transition;
+}
+
+
+// publication
+pub {
+  color: gray;
+ }
+ 
+highlighted {
+   color: #dc322f;
+  }
+ 
+// abstract
+div .abs {
+   margin-bottom: 3em;
+  }
+ 
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%; 
+}
+
+@media screen and (min-width: 800px) {
+.column {
+  flex: 1
+}
+
 }

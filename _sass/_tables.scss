@@ -36,3 +36,15 @@ td {
 tr, td, th {
   vertical-align: middle;
 }
+
+
+ // table in index
+table {
+  border-collapse: collapse;
+  border: none;
+}
+table td, th {
+ border: none;
+ text-align: center;
+ font-size: 1.2em;
+}

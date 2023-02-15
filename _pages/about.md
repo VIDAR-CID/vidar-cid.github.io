@@ -16,30 +16,48 @@ VIDAR-CID (Visual Information Discovery And Recovery, Computational Imaging Divi
 
 ## Research Topics
 
+<!-- <div style="overflow-x:auto;">
+<table class= "table table-responsive">
+  <tr>
+    <td> <a href="/low-level/sr-image.html" id="super-resolution"><img src="/images/topic-sr.jpg"  width="300"></a></td>
+    <td><a href="/low-level/sr-image.html" id="super-resolution"><img src="/images/topic-sr.jpg"  width="300"></a></td>
+   </tr> 
+   <tr>
+    <td> <a href="/low-level/sr-image.html">Image SR</a> </td>
+    <td> <a href="/low-level/sr-video.html">Video SR</a> </td>
+   </tr>
+</table>
+</div> -->
 
-<!-- ![Super Resolution]({{ site.baseurl }}/images/topic-sr.jpg)-->
-<a href="/super-resolution.html" id="super-resolution"><img src="/images/topic-sr.jpg"  width="300"></a> <br>
-<!-- **[Super-Resolution](/super-resolution.html)** -->
+<div class="row">
 
-[Image](/low-level/sr-image.html) |
-[Video](/low-level/sr-video.html) |
-[Spectrum](/low-level/sr-spectrum.html) |
-[Light Field](/low-level/sr-light-field.html) |
-[Other](/low-level/sr-other.html) |
+<div class="column">
+<table class= "table table-responsive">
+  <tr>
+    <td> <a href="/low-level/sr-image.html" id="super-resolution"><img src="/images/topic-sr.jpg"  width="300"></a></td>
+   </tr> 
+   <tr>
+    <td> <a href="/low-level/sr-image.html">Image SR</a> </td>
+   </tr>
+</table>
+</div>
 
----
+<div class="column">
+<table class= "table table-responsive">
+  <tr>
+    <td><a href="/low-level/sr-image.html" id="super-resolution"><img src="/images/topic-sr.jpg"  width="300"></a></td>
+   </tr> 
+   <tr>
+    <td> <a href="/low-level/sr-video.html">Video SR</a> </td>
+   </tr>
+</table>
+</div>
+
+</div>
 
 
-<!-- ![Depth Sensing]({{ site.baseurl }}/images/topic-depth.jpg) -->
-<!-- <a href="/depth-sensing.html" id="depth-sensing"><img src="/images/topic-depth.jpg"  width="300"></a> <br>
-**[Depth Sensing](/depth-sensing.html)** -->
-
-
----
-
-<!-- ![Biomedical Imaging]({{ site.baseurl }}/images/topic-biomedical.jpg) -->
-<!-- <a href="/biomedical-imaging.html" id="biomedical-imaging"><img src="/images/topic-biomedical.jpg"  width="300"></a> <br>
-**[Biomedical Imaging](/biomedical-imaging.html)** -->
-
-
----
+[Image](/low-level/sr-image.html)|
+[Video](/low-level/sr-video.html)|
+[Spectrum](/low-level/sr-spectrum.html)|
+[Light Field](/low-level/sr-light-field.html)|
+[Other](/low-level/sr-other.html)

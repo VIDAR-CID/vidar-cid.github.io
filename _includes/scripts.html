@@ -2,3 +2,12 @@
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
+
+<script>
+    function expandABS(abs) {
+        if (document.getElementById(abs).style.display=="none") 
+            document.getElementById(abs).style.display="block"; 
+        else document.getElementById(abs).style.display="none";
+    }
+
+</script>
